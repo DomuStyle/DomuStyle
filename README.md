@@ -1,19 +1,18 @@
 <div style="border: 2px solid #00b8d4; border-radius: 10px; padding: 20px; margin-top: 20px; background-color: #121212; color: #ffffff; ">
 
-<div style="border: 2px solid #00b8d4; border-radius: 10px; padding: 20px; margin-top: 20px; background-color: #121212; color: #ffffff; margin-bottom: 8px">
+  <div style="border: 2px solid #00b8d4; border-radius: 10px; padding: 20px; margin-top: 20px; background-color: #121212; color: #ffffff; margin-bottom: 8px">
 
   <div style="background: linear-gradient(to bottom, #4a148c, #121212); padding: 8px; border-radius: 10px; font-size: 24px; text-align: center; color: #3DCFB6; ">
-  <h1>Fullstack Development</h1>
-</div>
+    <h1>Fullstack Development</h1>
+  </div>
 </div>
 
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="Fullstack Developer Illustration" style="display: block; margin: 0 auto; max-width: 300px; margin-bottom: 16px; border-radius: 8px; border-color: #121212">
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="Fullstack Developer Illustration" style="display: block; margin: 0 auto; max-width: 300px; margin-bottom: 16px; border-radius: 8px; border-color: #121212">
 
-  <div align="center" style="margin-bottom: 16px">
+<div align="center" style="margin-bottom: 16px">
   <img src="https://github-readme-stats.vercel.app/api?username=DomuStyle&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DomuStyle&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
 
 <div align="center" style="margin-bottom: 16px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" style="background-color: #121212;" />
